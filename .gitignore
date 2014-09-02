@@ -1,4 +1,11 @@
 #################
+## Sublime
+#################
+
+*.sublime-project
+*.sublime-workspace
+
+#################
 ## Eclipse
 #################
 
